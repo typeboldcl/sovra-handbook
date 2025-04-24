@@ -155,6 +155,6 @@ Se propone abordar la etapa de prototipado para acelerar el desarrollo, organiza
 
 ### Tareas Jira
 
-Las tareas del proyecto se gestionan en Jira, donde cada mini-sprint se traduce en tickets específicos alineados con el diseño en Figma. Esto permite un seguimiento claro del progreso, asignación de responsables y control de tiempos.
+Las tareas del proyecto se gestionan en Jira, donde cada mini-sprint se traduce en tickets específicos alineados con el diseño en Figma. Esto permite un seguimiento claro del progreso y control de tiempos.
 
 ![jira.png](./resources/01-(23.04.25-14.05.25).png)
